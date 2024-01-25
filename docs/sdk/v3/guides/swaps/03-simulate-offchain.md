@@ -181,4 +181,4 @@ This function is an abstraction of all the steps laid out in this guide and dire
 
 ## Next Steps
 
-Now that you are familiar with simulating Trades and finding optimal routes offchain, we will demonstrate an alternative solution for routing in the [next guide](04-routing.md).
+Now that you're familiar with trading, consider checking out our next guides on [pooling liquidity](../liquidity/01-position-data.md) to Uniswap!

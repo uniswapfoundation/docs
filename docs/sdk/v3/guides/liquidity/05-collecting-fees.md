@@ -66,7 +66,3 @@ const txResponse = await position.collectFeesOnChain({
 ```
 
 After pressing the button, if someone has traded against our position, we should be able to note how the balance of USDC and DAI increases as we collect fees.
-
-## Next Steps
-
-The previous guides detail all the atomic steps needed to create and manage positions. However, these approaches may not use all of your desired currency. To ensure you are using your full funds while minimizing gas prices, check out our guide on [Swapping and Adding Liquidity](./05-swap-and-add-liquidity.md) in a single transaction!
